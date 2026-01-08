@@ -1,0 +1,19 @@
+{
+  "appId": "app.lovable.3375bd11c1034f9abdcbe133494f0366",
+  "appName": "voltgym",
+  "webDir": "dist",
+  "server": {
+    "url": "https://3375bd11-c103-4f9a-bdcb-e133494f0366.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0B1120",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "dark"
+    }
+  }
+}
